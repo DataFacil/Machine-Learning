@@ -1,0 +1,19 @@
+Booking_ID: identificador unico
+no_of_adults: numero de adultos
+no_of_children: numero de niños
+no_of_weekend_nights: numero de fines de semana (sabado y domingo)
+no_of_week_nights: numero de dias de semana (lunes a viernes)
+type_of_meal_plan: tipo de plan de alimentacion contratado en el paquete
+required_car_parking_space: si la reserva requiere o no estacionamiento
+room_type_reserved: tipo de habitación reservada
+lead_time: numero de dias transcurridos entre la reserva y la fecha de llegada
+arrival_year: año de llegada a la reserva
+arrival_month: mes de llegada a la reserva
+arrival_date: fecha de llegada a la reserva
+market_segment_type: segmento de mercado designado
+repeated_guest: si es o no un cliente repetido
+no_of_previous_cancellations: numero previo de cancelaciones de reserva
+no_of_previous_bookings_not_canceled: numero previo de reservas no canceladas
+avg_price_per_room: precio promedio de reserva en euros
+no_of_special_requests: numero total de peticiones especiales del cliente
+booking_status: si fue o no cancelada la reserva
